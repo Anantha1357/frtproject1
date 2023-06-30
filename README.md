@@ -22,27 +22,31 @@ This is a website based on te impact of online video games on youth.
 - Included the Deaddiction methods as an antidote for online video game addiction and the Chat bot to give suggestions. 
 ## Screenshots 📸
 ###  cover page -  
-![websitepage](https://github.com/Anantha1357/FRTproject/assets/124561046/3249ef52-859f-4523-b9b1-2df1ff7dcc07)
+![websitepage](https://github.com/Anantha1357/frtproject1/assets/124561046/850af3c3-2e75-42aa-9fc2-7dbf405f8864)
+
 
 ### Home page-
-![Home page](https://github.com/Anantha1357/FRTproject/assets/124561046/ee2ad991-cc3f-4805-ba96-4f02e95a144a)
-  
+  ![Home page](https://github.com/Anantha1357/frtproject1/assets/124561046/b2023219-d300-44df-aba4-48136a59e346)
+
 
 ### Benefits page -
 
-![Benefits](https://github.com/Anantha1357/FRTproject/assets/124561046/80ac10ce-ef37-41f4-a8f9-48ef398c7d52)
+![Benefits](https://github.com/Anantha1357/frtproject1/assets/124561046/85efbdb6-0a46-47dd-ba00-36f355c51d25)
+
 
 ### Draw backs page -
-![Drawbacks](https://github.com/Anantha1357/FRTproject/assets/124561046/c086b411-fe76-4cc1-9370-590ef4d769ba)
+![Drawbacks](https://github.com/Anantha1357/frtproject1/assets/124561046/c3b339dd-5965-4a24-9908-b654fe803086)
+
 
 ### Chatbot  Page -
-![chatbot](https://github.com/Anantha1357/FRTproject/assets/124561046/3d0e1545-8571-45df-89b8-f71949931ca9)
+![chatbot](https://github.com/Anantha1357/frtproject1/assets/124561046/4cbe7dcb-90d8-4c19-b282-c640d8a9f325)
 
 ### Addiction Page -
-![Addictionpage](https://github.com/Anantha1357/FRTproject/assets/124561046/4945ca1f-2fa6-4b66-a991-ee8320d8ffeb)
+![Addictionpage](https://github.com/Anantha1357/frtproject1/assets/124561046/29f7614a-728b-4ed0-8c18-2be4dc9c48b8)
 
 ### De-addiction Page -
-![Deaddictionpage](https://github.com/Anantha1357/FRTproject/assets/124561046/cc00f070-fba9-4665-b8f2-d7611805acd9)
+![Deaddictionpage](https://github.com/Anantha1357/frtproject1/assets/124561046/31a9e64f-4a9e-4e56-9fa8-8d898eb371e3)
+
 ## Tech Stack 💻
 
 - Azure(Hosting)
